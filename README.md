@@ -7,15 +7,15 @@ Developed with ❤️ using [**Kotlin**](https://kotlinlang.org/) :muscle: and [
 
 | Keyframe animation | Shopping Keyframe animation | Collapsing toolbar |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="https://github.com/ibhavikmakwana/KeyFrameAnimation/blob/master/keyframeanimation.gif" height="400" alt="Screenshot"/>  | <img src="https://github.com/ibhavikmakwana/Constraint-Layout-Animations/blob/master/gif/shoopin_key_frame_animation.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/ibhavikmakwana/Constraint-Layout-Animations/blob/master/gif/collapsing%20toolbar.gif" height="400" alt="Screenshot"/> |
+| <img src="https://github.com//blob/master/keyframeanimation.gif" height="400" alt="Screenshot"/>  | <img src="https://github.com/--link-part--/master/gif/shoopin_key_frame_animation.gif" height="400" alt="Screenshot"/> | <img src="https://github.com/--link-part--/master/gif/collapsing%20toolbar.gif" height="400" alt="Screenshot"/> |
 
 | Parallax Effect |
 | --------------- |
-| <img src="https://github.com/ibhavikmakwana/Constraint-Layout-Animations/blob/master/gif/parallax_effect.gif" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/--link-part--/master/gif/parallax_effect.gif" height="400" alt="Screenshot"/> |
 
 | Circular Positioning |
 | -------------------- |
-| <img src="https://github.com/ibhavikmakwana/Constraint-Layout-Animations/blob/master/gif/Circular_Positioning.gif" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/--link-part--/master/gif/Circular_Positioning.gif" height="400" alt="Screenshot"/> |
 
 # Resources
 
@@ -25,16 +25,4 @@ Developed with ❤️ using [**Kotlin**](https://kotlinlang.org/) :muscle: and [
 
 # How to contribute?
 
-Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/ibhavikmakwana/Constraint-Layout-Animations/blob/master/CONTRIBUTING.md)
-
-# Developed by
-
-Bhavik Makwana [linkedin](https://www.linkedin.com/in/ibhavikmakwana/) [Twitter](https://twitter.com/ibhavikmakwana)
-
-# Credits
-
-I have used [Ramotion's design](https://www.uplabs.com/posts/shopping-app-interactions) concept for the animation of shopping layout
-
-# License
-
-The contents of this repository are covered under the [Apache License 2.0](https://github.com/ibhavikmakwana/KeyFrameAnimationDemo/blob/master/LICENSE).
+Check out contribution guidelines 👉[CONTRIBUTING.md](https://github.com/--link-part--/master/CONTRIBUTING.md)
